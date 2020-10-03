@@ -1,0 +1,35 @@
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\Anime Lister.exe.config
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\Anime Lister.exe
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\Anime Lister.pdb
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime Lister.csprojAssemblyReference.cache
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime_Lister.Properties.Resources.resources
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime Lister.csproj.GenerateResource.cache
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime Lister.csproj.CoreCompileInputs.cache
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime Lister.exe
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime Lister.pdb
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime_Lister.Form_Main.resources
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime_Lister.Form_AddAnime.resources
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime_Lister.Form_RemoveAnime.resources
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime_Lister.Form_EditAnime.resources
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\EntityFramework.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Buffers.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Data.SQLite.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Memory.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\EntityFramework.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Buffers.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Data.SQLite.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Memory.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GSaik\source\repos\Anime Lister\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime Lister.csproj.CopyComplete
+C:\Users\GSaik\source\repos\Anime Lister\obj\Debug\Anime_Lister.Form_About.resources

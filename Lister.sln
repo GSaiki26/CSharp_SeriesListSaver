@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lister", "Lister.csproj", "{E68D2CB4-DC9A-46C3-AD5A-ECE95BD53619}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Saiki Lister Setup", "..\Setup\Saiki Lister Setup\Saiki Lister Setup.vdproj", "{B055AA59-68B5-45BA-9621-9047DCADE222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68D2CB4-DC9A-46C3-AD5A-ECE95BD53619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68D2CB4-DC9A-46C3-AD5A-ECE95BD53619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68D2CB4-DC9A-46C3-AD5A-ECE95BD53619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68D2CB4-DC9A-46C3-AD5A-ECE95BD53619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B055AA59-68B5-45BA-9621-9047DCADE222}.Debug|Any CPU.ActiveCfg = Debug
+		{B055AA59-68B5-45BA-9621-9047DCADE222}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311345A3-AFC3-45DC-9A2F-D23CE28E4CBD}
+	EndGlobalSection
+EndGlobal
